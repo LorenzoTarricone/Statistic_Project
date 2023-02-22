@@ -1,4 +1,4 @@
-# Statistic_Project
+# Statistics Project
 ### Language used: RMarkdown
 
 Project of statistic about modelling cancer causalities. This was made in collaboration by *Lorenzo Tarricone* and *Karim Abdel Sadek*
